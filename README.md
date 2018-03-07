@@ -1,2 +1,2 @@
-# recordEmbedding
-This repository contains the code for the design and exploring applications of embedding records from a database.
+# Design and Applications of Embedding Records
+This project deals with exploration and design of algorithms to perform embedding of records in a database. We hope to draw parallels with the methods currently used for word and sentence embedding. Furthermore, we will also explore some potential applications of such an embedding scheme, such as imputation of missing data, surfacing interesting insights by visualizing the embedding space, performing clustering and identifying representative embedding vectors in each cluster to gain an understanding of the data. 
