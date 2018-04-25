@@ -1,0 +1,4 @@
+10_attributes_first.csv	- no errros
+10_attributes_fourth.csv	- mis spellings introduced
+10_attributes_second.csv	- columwise attribute shuffling
+10_attributes_third.csv - introduced nan values
