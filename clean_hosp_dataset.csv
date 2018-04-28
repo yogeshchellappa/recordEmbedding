@@ -1,4 +1,4 @@
-ProviderNumber,HospitalName,Address1,City.1,ZipCode,CountyName,PhoneNumber,HospitalOwner,Condition,Sample
+ProviderNumber,HospitalName,Address1,City,ZipCode,CountyName,PhoneNumber,HospitalOwner,Condition,Sample
 10018,CALLAHAN EYE FOUNDATION HOSPITAL,1720 UNIVERSITY BLVD,BIRMINGHAM,35233,JEFFERSON,2053258100,Voluntary non-profit - Private,Surgical Infection Prevention,0 patients
 10019,HELEN KELLER MEMORIAL HOSPITAL,1300 SOUTH MONTGOMERY AVENUE,SHEFFIELD,35660,JEFFERSON,2563864556,Government - Hospital District or Authority,Heart Attack,33 patients
 10019,HELEN KELLER MEMORIAL HOSPITAL,1300 SOUTH MONTGOMERY AVENUE,SHEFFIELD,35660,JEFFERSON,2563864556,Government - Hospital District or Authority,Heart Attack,13 patients
