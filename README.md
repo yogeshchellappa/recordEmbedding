@@ -3,10 +3,9 @@ UW-Madison CS839 Course project under Theo Rekatsinas.
 > Project Folder (Private): https://drive.google.com/drive/folders/1PPM9WCJoF86yKC7RIo1-GBp5iVciSy6T?usp=sharing
 
 ### Description
-This project deals with exploration and design of algorithms to perform embedding of records in a database. We hope to draw parallels with the methods currently used for word and sentence embedding. Furthermore, we will also explore some potential applications of such an embedding scheme, such as imputation of missing data, surfacing interesting insights by visualizing the embedding space, performing clustering and identifying representative embedding vectors in each cluster to gain an understanding of the data. 
+This project deals with the design and applications of algorithms to perform embedding of records from a database. We aim to draw parallels with the methods currently used for word and sentence embedding and explore applications of such an embedding scheme, namely detection of erroneous records and error correction. Here we present an approach to embed records and then study its applications by building an end to end pipeline to perform error detection and error correction of records.
 
 ### Applications:
 * Error detection
 * Imputation of missing data 
-* Surfacing interesting insights by visualizing the embedding space 
-* Performing clustering and identifying representative embedding vectors in each cluster
+* Error correction
